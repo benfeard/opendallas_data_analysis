@@ -1,14 +1,8 @@
----
-title: "Data 110 Project 1"
-subtitle: "Dallas Police Response to Resistance in 2019"
-author: "Benfeard Williams"
-date: "10/13/2020"
-output: 
-    html_document:
-        keep_md: true
----
+# Data 110 Project 1
+by "Benfeard Williams"
+10/13/2020
 
-*This a project for Montgomery College's Data Sciene 110 course Fall 2020*
+>This is a project for Montgomery College's Data Science 110 (Fall 2020)
 
 ## About the dataset
 
