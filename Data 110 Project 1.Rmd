@@ -8,7 +8,7 @@ output:
         keep_md: true
 ---
 
-*This a project for Montgomery College's Data Sciene 110 course Fall 2020*
+*This is a project for Montgomery College's Data Science 110 (Fall 2020)*
 
 ## About the dataset
 
